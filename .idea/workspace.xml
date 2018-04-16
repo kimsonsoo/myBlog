@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60c04647-7378-4cc5-9425-9130a3570241" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="60c04647-7378-4cc5-9425-9130a3570241" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -171,8 +169,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="881" />
-    <option name="y" value="15" />
+    <option name="x" value="326" />
+    <option name="y" value="-8" />
     <option name="width" value="993" />
     <option name="height" value="1050" />
   </component>
